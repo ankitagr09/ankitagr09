@@ -26,15 +26,15 @@ I'm a passionate **Software Developer** with expertise in **Web Development, AI,
 ### 📚 Blog & Articles:
 I write SEO-optimized blog posts on technology and IT services. Check out my latest articles at **D3Cloud IT Services**.
 
-🔗 [Visit My Blog](#) (Update this with your actual blog link)
+🔗 [Visit My Blog](/) (Update this with your actual blog link)
 
 ---
 
 ### 📬 Connect With Me:
-- **LinkedIn**: [Ankit Agrawal](#) (Update with your LinkedIn profile link)
-- **Twitter/X**: [@YourTwitterHandle](#)
-- **GitHub**: [Ankit-Agrawal](https://github.com/Ankit-Agrawal)
-- **Website**: [D3Cloud IT Services](#) (Your company website)
+- **LinkedIn**: [Ankit Agrawal](https://linkedin.com/in/ankitagr09) (Update with your LinkedIn profile link)
+- **Portfolio**: [@Portfolio](https://ankitagr09.github.io/)
+- **GitHub**: [Ankit-Agrawal](https://github.com/ankitagr09)
+- **Website**: [D3Cloud IT Services](https://dtcit.in) (D3Cloud IT Services)
 
 ---
 
